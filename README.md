@@ -26,13 +26,13 @@
 
 ### Windows and Mac users:
 
-**Fi**rst, **down**load [Python](https://www.python.org) **a**nd [the latest version of FocusFixer](https://github.com/TamasPeti/FocusFixerAHK/releases).
+**Fi**rst, **down**load [Python](https://www.python.org) **a**nd [the latest version of FocusFixer](https://github.com/TamasPeti/FocusFixerPy/releases/tag/Releases).
 **Th**en **ins**tall **keyb**oard **pype**rclip **a**nd **pyau**togui
 `pip install keyboard pyperclip pyautogui`
 
 ### Linux Users:
 
-**Fi**rst, **down**load [Python](https://www.python.org) **a**nd [the latest version of FocusFixer](https://github.com/TamasPeti/FocusFixerAHK/releases).
+**Fi**rst, **down**load [Python](https://www.python.org) **a**nd [the latest version of FocusFixer](https://github.com/TamasPeti/FocusFixerPy/releases/tag/Releases).
 **Th**en **ins**tall **keyb**oard **pype**rclip **a**nd **pyau**togui
 `pip install keyboard pyperclip pyautogui`
 
